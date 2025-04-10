@@ -79,7 +79,7 @@ class _CarMoviesScreenState extends State<CarMoviesScreen> {
                         ),
                       ),
                     ),
-                    leading: Icon(Icons.directions_car, color: Colors.indigo),
+                    leading: Icon(Icons.directions_car, color: const Color.fromARGB(255, 67, 181, 63)),
                   ),
                 );
               },
